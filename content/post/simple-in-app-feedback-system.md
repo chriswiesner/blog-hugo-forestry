@@ -1,12 +1,14 @@
 +++
 author = "Chris"
+authors = ["Christoph Wiesner"]
 categories = ["usability"]
 date = 2020-04-08T07:01:00Z
 description = ""
+hero = "/images/Simple-In-App-Feedback-System/1-lyku9KUYpwU9kICwsfSO1g.png"
 image = "/images/Simple-In-App-Feedback-System/1-lyku9KUYpwU9kICwsfSO1g.png"
 slug = "simple-in-app-feedback-system"
+timeToRead = 3
 title = "Simple In-App Feedback System"
-type = "post"
 
 +++
 As already mentioned in my last article about [First App-Experience](https://christophwiesner.at/first-app-experience-don-t-get-too-much-in-your-user-s-way/) I’m currently trying to improve certain areas in a mobile app for e-scooter sharing.
